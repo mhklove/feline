@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c88eb0c2.chunk.css",
+    "main.js": "/static/js/main.101ab819.chunk.js",
+    "main.js.map": "/static/js/main.101ab819.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9a7b0d8d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9a7b0d8d.js.map",
+    "static/js/2.00cadf06.chunk.js": "/static/js/2.00cadf06.chunk.js",
+    "static/js/2.00cadf06.chunk.js.map": "/static/js/2.00cadf06.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d8ef34a40bc3009e51eb9f19a01323e.js": "/precache-manifest.9d8ef34a40bc3009e51eb9f19a01323e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c88eb0c2.chunk.css.map": "/static/css/main.c88eb0c2.chunk.css.map",
+    "static/js/2.00cadf06.chunk.js.LICENSE.txt": "/static/js/2.00cadf06.chunk.js.LICENSE.txt",
+    "static/media/HeroImage.png": "/static/media/HeroImage.2cc645e7.png",
+    "static/media/JoinUs1.png": "/static/media/JoinUs1.6f60e0b8.png",
+    "static/media/JoinUs2.png": "/static/media/JoinUs2.fe8b35e7.png",
+    "static/media/Sale.png": "/static/media/Sale.ce06d1b1.png",
+    "static/media/features1.svg": "/static/media/features1.83e019f1.svg",
+    "static/media/features2.svg": "/static/media/features2.9b99e187.svg",
+    "static/media/features3.svg": "/static/media/features3.f93ab236.svg",
+    "static/media/features4.svg": "/static/media/features4.a609d5e7.svg",
+    "static/media/gallery.png": "/static/media/gallery.11dc41bb.png",
+    "static/media/gallery1.png": "/static/media/gallery1.7ee3bdc1.png",
+    "static/media/gallery2.png": "/static/media/gallery2.dabd4b71.png",
+    "static/media/gallery3.png": "/static/media/gallery3.688011ae.png",
+    "static/media/gallery4.png": "/static/media/gallery4.ee2b9bbb.png",
+    "static/media/gallery5.png": "/static/media/gallery5.27bfe886.png",
+    "static/media/summerBg.webp": "/static/media/summerBg.b969262b.webp",
+    "static/media/trainer.png": "/static/media/trainer.2649ade7.png",
+    "static/media/trainer2.png": "/static/media/trainer2.0f869951.png",
+    "static/media/trainer3.png": "/static/media/trainer3.69074cb0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a7b0d8d.js",
+    "static/js/2.00cadf06.chunk.js",
+    "static/css/main.c88eb0c2.chunk.css",
+    "static/js/main.101ab819.chunk.js"
+  ]
+}
